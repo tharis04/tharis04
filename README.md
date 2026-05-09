@@ -9,8 +9,7 @@
 
 ### 🧰 Technical Skills
 
-| Category              | Skills / Tools                                                                 |
-|-----------------------|--------------------------------------------------------------------------------|
+
 | **Programming language**       | Embedded C, Python (basics)                                                    |
 | **Microcontrollers**  | PIC16F877A, ESP32                                                              |
 | **Peripheral Interfaces** | Timers, Interrupts, LCD, UART                                              |
