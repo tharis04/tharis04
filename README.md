@@ -11,11 +11,13 @@
 
 | Category              | Skills / Tools                                                                 |
 |-----------------------|--------------------------------------------------------------------------------|
-| **Programming**       | Embedded C, Python (basics)                                                    |
+| **Programming**       | Embedded C, C++, Python (basics)                                               |
+| **Core concepts**     |  Data structures & Algorithms, OOP, Pointers, File handling                       |
+| **Operating Systems** | Linux - Bash Shell Scripting                                                   |
 | **Microcontrollers**  | PIC16F877A, ESP32                                                              |
 | **Peripheral Interfaces** | Timers, Interrupts, LCD, UART                                              |
-| **Communication Protocols** | UART                                                                    |
-| **IDE & Tools**       | MPLAB v5.35, PicsimLab, Wokwi IoT Simulator                                    |
+| **Communication Protocols** | UART, I2C                                                                  |
+| **IDE & Tools**       | MPLAB v5.35, PicsimLab, GCC compiler                                    |
 
 ---
 
