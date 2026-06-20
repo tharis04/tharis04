@@ -16,7 +16,7 @@
 | **Operating Systems** | Linux - Bash Shell Scripting                                                   |
 | **Microcontrollers**  | PIC16F877A, ESP32                                                              |
 | **Peripheral Interfaces** | Timers, Interrupts, LCD, UART                                              |
-| **Communication Protocols** | UART, I2C                                                                  |
+| **Communication Protocols** | UART, I2C (Inter-Intergrated Circuits)                                                                |
 | **IDE & Tools**       | MPLAB v5.35, PicsimLab, GCC compiler                                    |
 
 ---
