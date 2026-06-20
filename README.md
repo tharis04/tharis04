@@ -4,7 +4,6 @@
 
 <h3>B.E ECE | Embedded Systems Enthusiast </h3>
 "Transforming smart ideas into scalable embedded & IoT solutions"
----
 </div>
 
 ### 🧰 Technical Skills
