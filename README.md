@@ -34,6 +34,5 @@
 ---
 
 ### 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/tharis-selvaraj)  
-- [GitHub](https://github.com/tharis04)  
+- [LinkedIn](https://www.linkedin.com/in/tharis-selvaraj04)   
 - [Email](mailto:tharis0409@gmail.com)  
