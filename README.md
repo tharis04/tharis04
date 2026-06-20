@@ -21,6 +21,11 @@
 
 ---
 
+### Projects 
+1. LSB Image Steganography
+2. Address Book Management System
+3. Intelligent Irrigation System - IOT based Water Management System with Integrated Intrusion Detection Mechanism
+
 ### 📊 GitHub Highlights
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tharis04&show_icons=true&theme=default)
 
