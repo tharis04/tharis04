@@ -39,9 +39,7 @@
 
 ---
 <p align="center">
-  <a href="https://github.com/tharis04">GitHub</a> |
   <a href="https://www.linkedin.com/in/tharis-selvaraj04">LinkedIn</a> |
-  <a href="https://tharis04.github.io">Portfolio</a> |
-  <a href="#projects">Projects</a>
+  <a href="https://tharis04.github.io">Portfolio</a> 
 </p>
  
