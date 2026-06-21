@@ -41,4 +41,11 @@
 
 ### 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/tharis-selvaraj04)   
-- [Email](mailto:tharis0409@gmail.com)  
+- [Email](mailto:tharis0409@gmail.com)
+- <p align="center">
+  <a href="https://github.com/tharis04">GitHub</a> |
+  <a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a> |
+  <a href="https://tharis04.github.io/portfolio">Portfolio</a> |
+  <a href="#projects">Projects</a>
+</p>
+ 
