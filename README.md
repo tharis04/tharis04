@@ -38,7 +38,7 @@
 - 🥇 **1st Prize** in Paper Presentation at *Zentronix '26* for *“Intelligent Irrigation System – An IoT-enabled Water Management System with Intrusion Detection.”*  
 
 ---
-- <p align="center">
+<p align="center">
   <a href="https://github.com/tharis04">GitHub</a> |
   <a href="https://www.linkedin.com/in/tharis-selvaraj04">LinkedIn</a> |
   <a href="https://tharis04.github.io/portfolio">Portfolio</a> |
